@@ -5,7 +5,7 @@ O projeto seguinte faz parte de uma aplicação fullstack que visou desenvolver 
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,gradle,mysql" />
   </a>
 </p>
 
